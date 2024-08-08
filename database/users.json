@@ -1,0 +1,336 @@
+{
+  "users": [
+    {
+      "name": "Tamara Kris",
+      "email": "Kristy.Borer51@example.net",
+      "password": "_0gYngnbDLEQM8T",
+      "id": "1"
+    },
+    {
+      "name": "Miss Leland Bode",
+      "email": "Aileen.Bauch@example.com",
+      "password": "qT3t_LHp3V9fYFI",
+      "id": "2"
+    },
+    {
+      "name": "Nathaniel Block",
+      "email": "Devante.Hettinger@example.org",
+      "password": "4GdbEwMzQ615Xfp",
+      "id": "3"
+    },
+    {
+      "name": "Perry Schaden",
+      "email": "Nicolette_Beier24@example.org",
+      "password": "EbpFhfzjJzjfrrd",
+      "id": "4"
+    },
+    {
+      "name": "Rosie Gutmann",
+      "email": "Timothy_Harris@example.org",
+      "password": "ybZMnUqfQQMaL9P",
+      "id": "5"
+    },
+    {
+      "name": "Marie Stracke",
+      "email": "Tara.Kirlin26@example.org",
+      "password": "sv1GFOwM3Z4_0ZR",
+      "id": "6"
+    },
+    {
+      "name": "Chris Sanford",
+      "email": "Douglas43@example.net",
+      "password": "bCjhe7Rk3wizzCt",
+      "id": "7"
+    },
+    {
+      "name": "Kelley Legros",
+      "email": "Jessica.Weimann@example.com",
+      "password": "7nfDVSZ71PeVaIs",
+      "id": "8"
+    },
+    {
+      "name": "Leonard Huel",
+      "email": "Kendall22@example.org",
+      "password": "_vdaYzZQ_8WOThn",
+      "id": "9"
+    },
+    {
+      "name": "Mona Brakus",
+      "email": "Brendon_Rath@example.org",
+      "password": "DFyLdsV051V_lF6",
+      "id": "10"
+    },
+    {
+      "name": "Terry Tromp",
+      "email": "Rosemary38@example.net",
+      "password": "kqPI1Zje5t5ypOR",
+      "id": "11"
+    },
+    {
+      "name": "Mrs. Debbie Yundt",
+      "email": "Kailey.Rodriguez20@example.org",
+      "password": "E0x3_hrkxzwQqhx",
+      "id": "12"
+    },
+    {
+      "name": "Maureen Ullrich Sr.",
+      "email": "Reymundo57@example.net",
+      "password": "iLMNxV_gLbJoBOo",
+      "id": "13"
+    },
+    {
+      "name": "Mario Lesch I",
+      "email": "Kenyatta50@example.org",
+      "password": "4cUCrhZXqH4q9Cf",
+      "id": "14"
+    },
+    {
+      "name": "Guillermo Bradtke",
+      "email": "Billy4@example.org",
+      "password": "YkO4Vv9uEE6APbR",
+      "id": "15"
+    },
+    {
+      "name": "Billy Tremblay",
+      "email": "Marcel.Beier32@example.com",
+      "password": "j9WcWOtvjSvQqj9",
+      "id": "16"
+    },
+    {
+      "name": "Faye Smith",
+      "email": "Jude_West@example.net",
+      "password": "zTP6wLkwBalGrCn",
+      "id": "17"
+    },
+    {
+      "name": "Sylvester D'Amore",
+      "email": "Keith.Bauch3@example.org",
+      "password": "CU_8SuzFZFkPUu9",
+      "id": "18"
+    },
+    {
+      "name": "Sammy Kunde",
+      "email": "Wendy.Boyle@example.net",
+      "password": "49ychmzF8hqnnyG",
+      "id": "19"
+    },
+    {
+      "name": "Oliver Block",
+      "email": "Minnie41@example.org",
+      "password": "896LNpYxbEA9uIW",
+      "id": "20"
+    },
+    {
+      "name": "Mrs. Mandy Abshire",
+      "email": "Sherman.Windler@example.org",
+      "password": "K74Z4EhiywWwnuC",
+      "id": "21"
+    },
+    {
+      "name": "Kristine Lind II",
+      "email": "Everardo.Lubowitz78@example.com",
+      "password": "fBVtPBwd5wYKpe_",
+      "id": "22"
+    },
+    {
+      "name": "Rolando Gutkowski",
+      "email": "Kraig.Parisian@example.org",
+      "password": "Ue8YBGf87fuIOok",
+      "id": "23"
+    },
+    {
+      "name": "Nick Russel",
+      "email": "Jermey.Cummerata31@example.com",
+      "password": "8Z1BhTFZ83grjzk",
+      "id": "24"
+    },
+    {
+      "name": "Lorena Reichel",
+      "email": "Claudia_Cormier79@example.org",
+      "password": "mKEqihaZ4Zcu9G1",
+      "id": "25"
+    },
+    {
+      "name": "Miss Betty Bosco",
+      "email": "Webster_Swaniawski53@example.com",
+      "password": "3_gpZgyUGz38hDa",
+      "id": "26"
+    },
+    {
+      "name": "Kara Huel",
+      "email": "Gideon99@example.net",
+      "password": "37AXFW2szQQAFDx",
+      "id": "27"
+    },
+    {
+      "name": "Mrs. Marty Funk",
+      "email": "Layla.DAmore@example.org",
+      "password": "WHCDF2r8YzTo3us",
+      "id": "28"
+    },
+    {
+      "name": "Loren Rosenbaum",
+      "email": "Sophia50@example.org",
+      "password": "8eHiym4zQNYHpdI",
+      "id": "29"
+    },
+    {
+      "name": "Clara Ferry",
+      "email": "Weston25@example.org",
+      "password": "Y3tNEM427QzjVwN",
+      "id": "30"
+    },
+    {
+      "name": "Miguel Torphy",
+      "email": "Lulu59@example.org",
+      "password": "SSTdnkiTSz0qS7m",
+      "id": "31"
+    },
+    {
+      "name": "Andrew Ritchie",
+      "email": "Salvatore_Bosco@example.com",
+      "password": "woh0rd36qIAVpgl",
+      "id": "32"
+    },
+    {
+      "name": "Wilson Hackett",
+      "email": "Claire5@example.com",
+      "password": "kdJH4kE6MH6T1Ws",
+      "id": "33"
+    },
+    {
+      "name": "Vicki Reinger",
+      "email": "Raven_Glover@example.net",
+      "password": "SmyMSyMdrjq5ah2",
+      "id": "34"
+    },
+    {
+      "name": "Cody Blick",
+      "email": "Bailey8@example.com",
+      "password": "otLagZPralpKhgG",
+      "id": "35"
+    },
+    {
+      "name": "Miss Nicolas Pagac",
+      "email": "Angus_Moore71@example.org",
+      "password": "bTuJdjWrj57HvQP",
+      "id": "36"
+    },
+    {
+      "name": "Mary Kuhlman",
+      "email": "Yasmin.Hoeger41@example.org",
+      "password": "53XAh5Xka8xSj2n",
+      "id": "37"
+    },
+    {
+      "name": "Kristina Berge",
+      "email": "Lonie_Mosciski92@example.net",
+      "password": "MYyKN2fTCq_WCBR",
+      "id": "38"
+    },
+    {
+      "name": "Rudy Rempel",
+      "email": "Yasmine_Ratke29@example.com",
+      "password": "DI2cbTeMkjOMiiv",
+      "id": "39"
+    },
+    {
+      "name": "Anna Kassulke II",
+      "email": "Alexander11@example.com",
+      "password": "Mf3WqBnv2qx7udK",
+      "id": "40"
+    },
+    {
+      "name": "Noel Wyman",
+      "email": "Reinhold.Waelchi@example.org",
+      "password": "8yjNFrqcWxau8WA",
+      "id": "41"
+    },
+    {
+      "name": "Roman Will",
+      "email": "Roy_Durgan@example.com",
+      "password": "tU12NbjhyYajdmQ",
+      "id": "42"
+    },
+    {
+      "name": "Rhonda Krajcik III",
+      "email": "Ottilie_Corkery75@example.com",
+      "password": "mxkwA40ubcvqGve",
+      "id": "43"
+    },
+    {
+      "name": "Gregg O'Reilly IV",
+      "email": "Alivia45@example.net",
+      "password": "JFToxoObQ3JEcWc",
+      "id": "44"
+    },
+    {
+      "name": "Mr. Inez Skiles",
+      "email": "Dell72@example.com",
+      "password": "FtcAVgY6AkydYel",
+      "id": "45"
+    },
+    {
+      "name": "Whitney Bode Sr.",
+      "email": "Gunnar_Wisoky88@example.net",
+      "password": "0kBclQ93q9tE_pX",
+      "id": "46"
+    },
+    {
+      "name": "Kay Fisher",
+      "email": "Alize_Boehm@example.com",
+      "password": "Aoj0JNXalej58U7",
+      "id": "47"
+    },
+    {
+      "name": "Laurie Johnson",
+      "email": "Pamela.Rutherford54@example.net",
+      "password": "OeCIzBGOp80PSq9",
+      "id": "48"
+    },
+    {
+      "name": "Homer Stracke",
+      "email": "Elza_Quigley1@example.net",
+      "password": "L73E_PJDU9F1RRB",
+      "id": "49"
+    },
+    {
+      "name": "Connie Conroy",
+      "email": "Enoch27@example.com",
+      "password": "Bo03d2IJ6srp7hq",
+      "id": "50"
+    },
+    {
+      "id": "5150",
+      "name": "ornnifero",
+      "email": "ornnifero@gmail.com",
+      "password": "ornn@123"
+    },
+    {
+      "id": "3d91",
+      "name": "Ornn",
+      "email": "ornn@gmail.com",
+      "password": "ornn123"
+    },
+    {
+      "id": "3e55",
+      "name": "Jubiscleidson",
+      "email": "jubis.cleidson@yahoo.com.br",
+      "password": "jubis12@"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Caranguejo Ouro",
+      "address": "Rua dos Ourives, 6969",
+      "contact": "84 9 9999-9999",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Tetris Khanis",
+      "address": "Rua Castelo Animado, 2004 ",
+      "contact": "85 9 8899-9988"
+    }
+  ]
+}

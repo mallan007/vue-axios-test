@@ -1,26 +1,62 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div class="container">
+    <Icon icon="line-md:buy-me-a-coffee-twotone" width="75" height="75"/> 
+    
+    <router-view />
+  </div>
+
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import { Icon } from '@iconify/vue';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
-  }
+    Icon
+  },
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+.container {
+  margin-top: 10px;
+  margin-bottom: 1px;
+  margin-left: 10px;
+  margin-right: 10px; 
+  align-items: center;
+}
+.register input,
+.login input,
+.addNew input {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 25px;
+  margin-right: 25px; 
+  padding-left: 20px;
+  border: 1px solid skyblue;
+  width: 300px;
+  height: 40px;
+  display: block;
+}
+.register button,
+.login button,
+.addNew button {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 25px;
+  margin-right: 25px; 
+  padding-left: 20px;
+  border: 1px solid skyblue;
+  width: 320px;
+  height: 40px;
+  display: block;
+  cursor: pointer;
+}
+.register button:hover,
+.login button:hover,
+.addNew button:hover{
+    background-color: purple;
+    color: skyblue;
 }
 </style>
