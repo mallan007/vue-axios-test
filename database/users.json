@@ -331,6 +331,12 @@
       "address": "Rua Castelo Animado, 2004 ",
       "contact": "85 9 8899-9978",
       "id": "2"
+    },
+    {
+      "id": "8c8c",
+      "name": "Maid Café",
+      "address": "Rua dos Otakus, 3",
+      "contact": "11 9 5555-5555"
     }
   ]
 }
